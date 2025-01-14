@@ -143,24 +143,24 @@ A Scrum project involves a collaborative effort to create a new product, service
 
 ## Scrum Components 
 Scrum consist of three primary components: principles, aspects, and phases. SCRUMstudy's Scrum Body of Knowledge, SBOK Guide is divided the into three areas: 
-•	Principles (Chapter 2)
-•	Aspects (Chapters 3 – 7)
-•	Phases (Chapters 8-– 12)
+- Principles (Chapter 2)
+- Aspects (Chapters 3 – 7)
+- Phases (Chapters 8-– 12)
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 7 
  
-## Scrum Principles 
+## Principles 
 Scrum consists of six principles:
-•	Empirical Process Control 
-•	Self-Organization 
-•	Collaboration 
-•	Value-based Prioritization 
-•	Time-boxing 
-•	Iterative Development 
+- Empirical Process Control
+- Self-Organization
+- Collaboration
+- Value-based Prioritization
+- Time-boxing
+- Iterative Development
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 9
 
-## Scrum Aspects
+## Aspects
 Scrum consists of five aspects:
 •	Organization
 •	Business Justification
@@ -170,7 +170,7 @@ Scrum consists of five aspects:
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 11 - 14
  
-## Scrum Phases
+## Phases
 Scrum consists of five phases: 
 •	Initiate
 •	Plan and Estimate
@@ -375,8 +375,8 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's Scrum Fundamentals Certification (SFC) exam. In this section, 
-***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
+SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
+In this section, ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
 an overview of scrum, its benefits, and impediments.
  
 <br/>
