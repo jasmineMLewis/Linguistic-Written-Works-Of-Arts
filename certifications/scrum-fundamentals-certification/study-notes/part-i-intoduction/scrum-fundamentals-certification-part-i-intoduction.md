@@ -23,7 +23,8 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 <br/> 
 
 # Subtitle
-Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, its principles, aspects, phases, benefits, and impediments.
+Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, its principles, aspects, phases, 
+benefits, and impediments.
 
 ---
 
@@ -52,7 +53,10 @@ than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC)
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <ins>***Note***<ins> or <u>***Note***</u> 
-All Scrum definitions, images, and related text in the [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
+All Scrum definitions, images, and related text in the 
+[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) 
+are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is 
+article is intended for informational and educational purposes.
 
 
 ## Study Notes Contents
@@ -75,7 +79,8 @@ My SFC Exam Study Notes are comprised of seven articles:
 
 <br/>
 
-As I study to complete the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles
+and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -84,7 +89,11 @@ As I study to complete the SCRUMstudy's Scrum Fundamentals Certification, I will
 ---
 
 # Scrum Fundamentals Certification
-The [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
+The [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an 
+introductory certification for individuals interested in learning project and software development processes using Agile methodology. 
+The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites 
+for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a 
+lifetime.
 
 ## Examination Format
 The exam format consists of the following:
@@ -108,7 +117,7 @@ The exam format consists of the following:
 ---
 
 # Overview of Scrum
-![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-impediments.png)
+![Image - Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-impediments.png)
 
 
 ## Agile Methodologies
@@ -296,7 +305,7 @@ documenting, and internalizing the lessons learned during the project.
 ---
 
 # Benefits
-![Image Scrum's 16 Benefits](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-benefits.png)
+![Image - Scrum's 16 Benefits](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-benefits.png)
 
 ## Benefits
 Scrum consist of 16 benefits. The benefits are the following:
@@ -394,4 +403,4 @@ I am the eagle that flies ABOVE. <br/>
 [**Jasmine Monique Lewis**](https://jasminelewis.tech/)
 
 
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
+![Image - LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
