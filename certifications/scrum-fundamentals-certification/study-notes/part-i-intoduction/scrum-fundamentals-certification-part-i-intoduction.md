@@ -391,7 +391,7 @@ I am the eagle that flies ABOVE. <br/>
 <br/>
  
 <!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
-[**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
+[**Jasmine Monique Lewis**](https://jasminelewis.tech/)
 
 
 ![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
