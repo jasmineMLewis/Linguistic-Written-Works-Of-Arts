@@ -382,8 +382,7 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
-In this section, ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
+SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
 an overview of scrum, its benefits, and impediments.
  
 <br/>
