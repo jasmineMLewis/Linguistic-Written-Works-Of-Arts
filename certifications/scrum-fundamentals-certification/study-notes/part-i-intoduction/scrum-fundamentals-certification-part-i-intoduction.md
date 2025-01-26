@@ -1,4 +1,4 @@
-# ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction
+# ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction
 
 # Article Details
 ### Author
@@ -382,13 +382,22 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
-an overview of scrum, its benefits, and impediments.
- 
+SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+
 <br/>
  
 <ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects,
 not only software applications.*
+
+---
+
+<br/> 
+
+R3b3l with me at GitHub, Medium, Dev Community, and LinkedIn
+
+
+R3b3l with me at [GitHub](https://github.com/jasmineMLewis), [Medium](https://medium.com/@JasmineMLewis), [Dev Community](https://dev.to/jasminemlewis/),
+and [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/) 
 
 
 *Signed*<br/>
@@ -396,7 +405,6 @@ The LightBringer<br/>
 I am the eagle that flies ABOVE. <br/>
 <br/>
  
-<!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
 [**Jasmine Monique Lewis**](https://jasminelewis.tech/)
 
 
