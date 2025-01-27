@@ -48,7 +48,9 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 to learn how to more sophistically implement the Scrum framework, an agile methodology, into my software and project management projects. In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles*** , I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
-<ins>***Note***</ins>
+
+***Note***
+
 <br/>
 
 All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
@@ -77,7 +79,7 @@ My SFC Exam Study Guide are comprised of eight sections:
 
 <br/>
 
-As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile my notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile study notes into a articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -178,10 +180,43 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 <br/>
 
 
+# Self-Organization
 
+![Image – Self-Organization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-self-organization.png)
 
+<ins>***Self-Organization</ins> allows team members to deliver greater value because Scrum embraces the idea employees are self-motivated and seek greater responsibility. Scrum's leadership style is "supporting leadership" which focus its needs on the Scrum Team to achieve results.
 
+<br/>
 
+Within the ***Initiate*** phase, the Project Vision is defined in the *Create Project Vision* process, followed by selecting the Product Owner, Scrum Master and Scrum Team in the *Identify Scrum Master and Business Stakeholder(s)* and *Form Scrum Team* processes. The Scrum Core Team collaborate with business stakeholders to *Develop Epic(s)*, an ***Initiate*** phase's process and *Create User Stories* process in ***Plan and Estimate*** phase. The team's expertise determines technical and management input necessary to execute planned work of project during the *Create Deliverables* process in ***Implement*** phase.
+
+<br/>
+
+The Product Owner, Voice of Customer, prioritizes work, and tasks breakdown and estimation is completed by the self-organized Scrum Team during *Identify Tasks* and *Estimate Tasks* processes of ***Plan and Estimate*** phase. During these processes, the Scrum Team determine their work responsibilities, and assist the Product Owner to identity risks and dependencies. Throughout the Sprint, the Scrum Team interface daily through Daily Standup Meetings to discuss progress, impediments, and need of assistance. The Scrum Team interact with other teams through Scrum of Scrum (SoS) meetings.
+
+<br/>
+
+Finally, in ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team and Scrum Master work together to show the product increment created during the Sprint and acceptance of completed deliverables. In ***Release*** phase's *Ship Deliverables* process, work is sent to production. Since the Prioritized Product Backlog arranges User Stories by value of importance, the Product Owner and customer can visualize value created after every Sprint.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27
+
+<br/>
+
+*Identification of Phases: Initiate, Plan and Estimate, Implement, Review and Retrospect, Release*
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 15
+
+<br/> 
+
+## Benefits of Self-Organization
+The benefits of self-organization are the following:
+- Ownership - collective buy-in and shared pride in work
+- Motivation – leads to enhanced team performance
+- Growth – innovative and creative environment
+- Approach – satisfy requirements with simplest and best techniques
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27 
+
+<br/>
 
 
 
