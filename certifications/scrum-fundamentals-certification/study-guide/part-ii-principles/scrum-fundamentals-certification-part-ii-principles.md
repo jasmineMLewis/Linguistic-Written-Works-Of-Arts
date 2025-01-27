@@ -342,6 +342,8 @@ Some of the benefits of co-location include:
 ## Collaboration in Distributed Teams
 While collocated teams are generally preferred, there are instances when the Scrum Team may be distributed. Scrum team members may work from various physical locations, including different cities or countries, and may also be working from home. Even when teams are collocated, members should have the flexibility to work remotely in case of extenuating circumstances that could affect the team's ability to function effectively in a collocated environment. In such situations, it may be necessary to ensure that Scrum Team members are set up to work effectively while distributed.
 
+<br/>
+
 ### Scrum Project Tool
 Utilizing a collaborative Scrum project tool is strongly advised to ensure team members work productively, especially when they are not located in the same workplace.
 
@@ -369,9 +371,40 @@ Benefits of using a Scrum Project Tool for distributed teams include the followi
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 31 - 32
 
-<br/> 
-
+<br/>
  
+# Value-based Prioritization
+
+![Image – Value Based Prioritization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-value-based-prioritization.png)
+
+
+The Scrum framework focuses on delivering maximum business value in the shortest time possible. Prioritization is one of the most effective tools for ensuring the greatest value is achieved quickly. Prioritization is the process of determining what tasks must be done immediately versus those that can be addressed later. The traditional Waterfall model of project management employs a sequential process with multiple levels of task prioritization to manage projects effectively. It uses prioritization matrices to delegate tasks and certain tasks must be completed first to expedite the development process and achieve project goals. It uses prioritization matrices to assign tasks, ensuring that some must be completed first to accelerate the development process and achieve project goals.
+
+<br/>
+
+The Scrum framework employs <ins>***Value-based Prioritization***</ins> or <u>***Value-based Prioritization***</u> as a core principle for adaptability and iterative development, providing structure and functionality for development of product or service. Scrum focuses on delivering a valuable product or service to customers early and continuously. The Product Owner prioritizes User Stories in the Prioritized Product Backlog. After the Product Owner receives business requirements from the customer, they are documented as Epics and User Stories. The Product Owner collaborates with customers and business stakeholders to identify the business requirements that provide the most value. To effectively prioritize user stories, the Product Owner needs to understand what customers want and value, organizing the stories in a list from highest to lowest priority. The processes where the principle of Value-based Prioritization is applied include  ***Initiate*** phase's *Create a Prioritized Product Backlog* and ***Implement*** phase's *Refine Prioritized Product Backlog*.
+
+<br/>
+
+Simultaneously, the Product Owner must collaborate with the Scrum Team to identify project risks and uncertainties, as these may lead to negative consequences. It is important to consider this when prioritizing User Stories using a value-based approach. Additionally, the Scrum Team notifies the Product Owner of any dependencies arising from implementation.
+
+<br/>
+
+The Product Owner must translate the inputs and needs of project stakeholders to create a Prioritized Product Backlog. Prioritization leads to deliverables that meet customer requirements while maximizing business value in the shortest time possible. While prioritizing the User Stories in the Prioritized Product Backlog, the following three factors are considered:
+- Value
+- Risk or uncertainty
+- Dependencies
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 33 - 34
+
+<br/>
+
+
+
+
+
+
+
 
 
 
