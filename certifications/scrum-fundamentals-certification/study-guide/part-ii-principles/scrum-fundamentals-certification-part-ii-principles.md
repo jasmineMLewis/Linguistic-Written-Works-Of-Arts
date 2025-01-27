@@ -51,7 +51,7 @@ to learn how to more sophistically implement the Scrum framework, an agile metho
 <ins>***Note***</ins>
 <br/>
 All Scrum definitions, images, and related text in 
-[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
+[Scrum Body of Knowledge, SBOK Guide, 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
 <br/>
