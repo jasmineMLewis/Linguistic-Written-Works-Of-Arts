@@ -48,10 +48,10 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 to learn how to more sophistically implement the Scrum framework, an agile methodology, into my software and project management projects. In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles*** , I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
-<ins>***Note***<ins>
+<ins>***Note***</ins>
 <br/>
 All Scrum definitions, images, and related text in 
-[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/ scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
+[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
 <br/>
