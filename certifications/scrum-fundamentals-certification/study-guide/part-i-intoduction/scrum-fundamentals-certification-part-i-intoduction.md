@@ -8,25 +8,22 @@ Jasmine Monique Lewis
 December 31, 2024
 
 ### Last Modified
-January 10, 2025
+January 27, 2025
 
 ![Image -Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-title-introduction.png)
 
 
 # Excerpt 
-I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam because it 
-introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than
-Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
-I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/> 
 <br/> 
 
 # Subtitle
-Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, its principles, aspects, phases, 
-benefits, and impediments.
+Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, 
+its principles, aspects, phases, benefits, and impediments.
 
----
+
 
 # Table of Contents 
 1. [Study Notes Overview](#study-notes-overview)
@@ -39,7 +36,6 @@ benefits, and impediments.
 8. [Benefits](#benefits)
 9. [Conclusion](#conclusion)
 
----
 
 <br/>
 Greetings & Salutations, Artistikk R3b3lls!
@@ -47,9 +43,8 @@ Greetings & Salutations, Artistikk R3b3lls!
 <br/>
 
 # Study Notes Overview
-I am pursuing my SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified). I am taking this course and exam 
-because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more 
-than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
+I am pursuing my SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified). 
+I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <ins>***Note***<ins> or <u>***Note***</u> 
@@ -58,19 +53,19 @@ All Scrum definitions, images, and related text in the
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is 
 article is intended for informational and educational purposes.
 
-
 ## Study Notes Contents
-My SFC Exam Study Notes are comprised of seven articles:
+My SFC Exam Study Notes are comprised of eight sections:
 1. <ins>***Part I: Introduction***<ins>
-2. Part II: Scrum Principles
+2. [Part II: Scrum Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-ii-principles/scrum-fundamentals-certification-part-ii-principles.md)
 3. Part III: Scrum Aspects
 4. Part IV: Scrum Phases & Phases
 5. Part V: Scaling Scrum
-6. Part VI: Practice Test
+6. Part VI: Glossary
+7. Part VII: Practice Test
     - Practice Test 1.1
 	- Practice Test 1.2 
     - Practice Test 1.3 
-7. Part VII: Case Study
+8. Part VIII: Case Study
     - Case Study – Phase 1
     - Case Study – Phase 2 
     - Case Study – Phase 3 
@@ -79,14 +74,12 @@ My SFC Exam Study Notes are comprised of seven articles:
 
 <br/>
 
-As I study to complete the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles
-and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile notes into a articles articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
 <br/>
 
----
 
 # Scrum Fundamentals Certification
 The [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an 
@@ -112,7 +105,6 @@ The exam format consists of the following:
 
 <br/>
 
----
 
 # Overview of Scrum
 ![Image - Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-impediments.png)
@@ -141,8 +133,6 @@ A Scrum project involves a collaborative effort to create a new product, service
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 2
 
 <br/>
-
----
 
 # Scrum Components
 
@@ -189,7 +179,6 @@ Scrum consists of five phases:
 
 <br/> 
 
----
 
 # Scrum Principles
 
@@ -230,7 +219,6 @@ Iterative Development emphasizes how to better manage changes and build products
 
 <br/>
 
----
 
 # Scrum Aspects
 
@@ -264,7 +252,6 @@ contribute to its success or failure.
 
 <br/>
 
----
 
 # Scrum Phases
 
@@ -300,7 +287,6 @@ documenting, and internalizing the lessons learned during the project.
 
 <br/>
 
----
 
 # Benefits
 ![Image - Scrum's 16 Benefits](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-benefits.png)
@@ -378,26 +364,22 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 
 <br/>
 
----
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
+In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided 
+a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/>
  
 <ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects,
 not only software applications.*
 
----
 
-<br/> 
+<br/>
 
-R3b3l with me at GitHub, Medium, Dev Community, and LinkedIn
-
-
-R3b3l with me at [GitHub](https://github.com/jasmineMLewis), [Medium](https://medium.com/@JasmineMLewis), [Dev Community](https://dev.to/jasminemlewis/),
-and [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/) 
+R3b3l with me at [GitHub](https://github.com/jasmineMLewis), [Medium](https://medium.com/@JasmineMLewis), [Dev Community](https://dev.to/jasminemlewis/), and [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/) 
 
 
 *Signed*<br/>
