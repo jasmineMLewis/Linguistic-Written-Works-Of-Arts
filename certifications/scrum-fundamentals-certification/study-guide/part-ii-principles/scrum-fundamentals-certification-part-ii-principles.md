@@ -22,6 +22,8 @@ In my previous article Scrum Fundamentals Certification (SFC) | Study Guide - Pa
 # Subtitle
 Learn about Scrum framework's 6 Principles: Empirical Process Control, Self-Organization, Collaboration, Value-Based Prioritization, Time-boxing, and Iterative Development to pass SCRUMstudy’s Scrum Fundamentals Certification (SFC)
 
+<br/>
+<br/>
 
 # Table of Contents 
 1. [Study Guide Overview](#study-guide-overview)
@@ -50,9 +52,6 @@ to learn how to more sophistically implement the Scrum framework, an agile metho
 <br/>
 
 ***Note***
-
-<br/>
-
 All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
@@ -104,6 +103,8 @@ Six Scrum Principles are the foundation on of the Scrum framework and can be app
  
 <ins>***Empirical Process Control*** </ins> allows learning through observation and experimentation, a pivotal aspect in the Scrum's framework to complete projects or products when clear and concise upfront planning and details are not present at the beginning or mid-way through product development. This principle emphasizes the core philosophy of Scrum based on three main ideas: *transparency, inspection,* and *adaptation.*
 
+<br/> 
+
 ## Transparency
 Transparency allows all aspects of any Scrum process to be viewed by everyone. This ensures information is available throughout the organization and develops an open work culture.
 
@@ -112,11 +113,15 @@ There are three components of ***Transparency***:
 - Meetings
 - Information Radiators
 
+<br/>
+
 There are four types of ***Artifacts***:
 - Project Vision Statement
 - Prioritized Product Backlog
 - Sprint Backlog
 - Release Planning Schedule
+
+<br/>
 
 There are five types of ***Meetings***:
 - Sprint Planning Meetings
@@ -125,16 +130,22 @@ There are five types of ***Meetings***:
 - Retrospect Sprint Meetings
 - Release Planning Meeting
 
+<br/>
+
 There are three types of ***Information Radiators***:
 - Sprint Burndown Chart
 - Scrumboard
 - Sprint Burnup Chart
+
+<br/>
 
 ### Artifacts
 - *Project Vision Statement* is viewable by business stakeholders and the Scrum Team.
 - *Prioritized Product Backlog* displays prioritized User Stories for everyone to view.
 - *Sprint Backlog* lists tasks associated with committed User Stories to be completed by Scrum team in current Sprint.
 - *Release Planning Schedule* can coordinate work across multiple Scrum Teams and other business stakeholders.
+
+<br/>
 
 ### Meetings
 - *Sprint Planning Meetings* allow Scrum Teams to estimate time and commitment needed to deliver priority User Stories and commit to set of User Stories complete for a Sprint.
@@ -143,10 +154,14 @@ There are three types of ***Information Radiators***:
 - *Retrospect Sprint Meetings* conducted after the Sprint Review Meetings on the last day of the Sprint allows the Scrum Team to discuss improvement opportunities for future Sprints.
 - *Release Planning Meeting* is conducted to enable the Scrum Team to have an overview of the planned releases and delivery schedule for development of the product.
 
+<br/>
+
 ### Information Radiators
 - *Sprint Burndown Chart*, *Scrumboard*, and *Sprint Burnup Chart* is visible to the Scrum Team to monitor progress.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 22 - 23
+
+<br/>
 
 ## Inspection
 Inspection in Scrum is depicted through the following:
@@ -155,6 +170,8 @@ Inspection in Scrum is depicted through the following:
 - Final Inspection and approval of deliverables by the Product Owner and the customer in *Demonstrate and Validate Sprint* process.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 24
+
+<br/>
 
 ## Adaptation
 Adaptation allows the Scrum Core Team and business stakeholders learn through transparency and inspection to adapt by making improvement in their work.
@@ -166,6 +183,8 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 - Scrum Guidance
 - Retrospect Sprint Meetings
 - Retrospect Project Meetings
+
+<br/>
 
 ### Example of Opportunities for Adaptation
 - In *Daily Standup Meetings*, Scrum Team members discuss impediments to completing tasks and seeking assistance from other team members. More experienced Scrum Team members mentor less experience in knowledge of the project or technology.
