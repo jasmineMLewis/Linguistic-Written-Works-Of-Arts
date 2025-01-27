@@ -420,7 +420,6 @@ Time-boxing is essential in Scrum, helping to prevent excessive refinement of it
 
 <br/>
 
-
 ## Scrum Time-boxes
 ### Sprint
 A <ins>***Sprint***</ins> is a time-boxed iteration lasting one to four weeks, facilitated by the Scrum Master, who protects the Scrum Team from obstacles during the ***Implement*** phase's *Create Deliverables* process. During a Sprint, the Scrum Team transforms requirements from the Prioritized Product Backlog into shippable product features. This structure helps prevent scope creep that could affect the Sprint goal. Sprints should be kept as short as possible for flexibility, but long enough to produce a deliverable that the Product Owner can review and approve.
@@ -439,7 +438,7 @@ The Sprint Planning Meeting has the following objectives:
 <br/>
 
 ### Daily Standup Meeting
-The <ins>***Daily Standup Meeting***</ins> or <u>***Daily Standup Meeting***</u> is a short daily meeting, Time-boxed to 15 minutes. This meeting is carried out by the Scrum Team as part of the ***Implement*** phase's *Conduct Daily Standup* process. The team meets to share updates on the project by answering these three questions:
+The <ins>***Daily Standup Meeting***</ins> is a short daily meeting, Time-boxed to 15 minutes. This meeting is carried out by the Scrum Team as part of the ***Implement*** phase's *Conduct Daily Standup* process. The team meets to share updates on the project by answering these three questions:
 1. What have I done since the last meeting?
 2. What do I plan to do before the next meeting?
 3. What impediments or obstacles (if any) am I currently facing?
@@ -447,23 +446,34 @@ The <ins>***Daily Standup Meeting***</ins> or <u>***Daily Standup Meeting***</u>
 <br/>
 
 ### Sprint Review Meeting
-The <ins>***Sprint Review Meeting***</ins> or <u>***Sprint Review Meeting***</u> is time-boxed to one hour for each week of the Sprint. During this meeting, held in the ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team presents the current Sprint deliverables to the Product Owner, who reviews them against the Acceptance Criteria to either accept or reject the completed User Stories.
+The <ins>***Sprint Review Meeting***</ins> is time-boxed to one hour for each week of the Sprint. During this meeting, held in the ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team presents the current Sprint deliverables to the Product Owner, who reviews them against the Acceptance Criteria to either accept or reject the completed User Stories.
 
 <br/>
 
 ### Retrospect Sprint Meeting
-The <ins>***Retrospect Sprint Meeting***</ins> or <u>***Retrospect Sprint Meeting***</u> is Time-boxed to one hour each week of the Sprint duration during the Retrospect Sprint process of ***Review and Retrospect*** phase. In this meeting, the Scrum Team gathers to review and reflect on the current Sprint regarding the processes followed, tools used, collaboration and communication methods, and other relevant aspects of the project. The team reviews what went well and what didn’t in the previous sprint to learn and improve future sprints. Any identified best practices or improvement opportunities may be added to the Scrum Guidance Body.
+The <ins>***Retrospect Sprint Meeting***</ins> is Time-boxed to one hour each week of the Sprint duration during the Retrospect Sprint process of ***Review and Retrospect*** phase. In this meeting, the Scrum Team gathers to review and reflect on the current Sprint regarding the processes followed, tools used, collaboration and communication methods, and other relevant aspects of the project. The team reviews what went well and what didn’t in the previous sprint to learn and improve future sprints. Any identified best practices or improvement opportunities may be added to the Scrum Guidance Body.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 35 - 36
 
 <br/>
 
- 
+# Iterative Development
 
+![Image – Iterative Development](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-iterative-development.png)
 
+To achieve the goal of delivering maximum business value in a minimum time span, Scrum application consists of <ins>***Iterative Development***</ins> of deliverables. In complex projects, the customer may not have concrete requirements for the product result. The Scrum framework uses an iterative model to ensure that change requests can be included in the product. User Stories may be written throughout the project's duration. At the beginning of the project, User Stories are defined as high-level functionalities referred to as Epics. An Epic is usually too large for teams to complete in a single Sprint; therefore, Epics are broken into smaller User Stories.
 
+<br/>
 
+During the ***Implement*** phase, the complex project is deconstructed during the *Refine Prioritized Product Backlog* process. In the ***Plan and Estimate*** phase, new requirements are added to the Prioritized Product Backlog in the processes of *Create User Stories*, *Estimate User Stories*, and *Commit User Stories*. The Product Owner must understand the project's business justification, ensure an increase in ROI, and deliver value after each Sprint when drafting the Prioritized Product Backlog. The *Identify Tasks*, *Estimate Tasks*, and *Update Sprint Backlog* processes of the ***Plan and Estimate*** phase create the Sprint Backlog, which the team uses to create deliverables.
 
+<br/>
+
+In each Sprint, the ***Implement*** phase's *Create Deliverables* process is used to develop the Sprint’s outputs. The Scrum Master facilitates the team to work most productively and the Scrum Team self-organizes and aims to create the Sprint Deliverables from the User Stories in the Sprint Backlog for each Sprint. Multiple cross-functional teams collaborate in parallel during Sprints to produce potentially shippable solutions after each Sprint in major projects. Following the completion of the Sprint, the Product Owner decides whether to accept or reject the deliverables by the Acceptance Criteria from the *Demonstrate and Validate Sprint* process in the ***Review and Retrospect*** phase.
+
+<br/>
+
+Because everyone engaged gains a better grasp of what needs to be provided as part of the project and iteratively incorporates these learnings, iterative development has the advantage of allowing for course correction. It reduces the time and effort to complete the product and deliverables are more appropriate for business value.
 
 <br/>
 
