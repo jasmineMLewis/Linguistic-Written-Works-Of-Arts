@@ -399,9 +399,66 @@ The Product Owner must translate the inputs and needs of project stakeholders to
 
 <br/>
 
+# Time-boxing
+ 
+![Image – Time-Boxing](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-time-boxing.png)
+
+Time is one of the most important factors in managing a Scrum project. To address this time constraint, Scrum introduces the concept of <ins>***Time-boxing***</ins>. This method involves establishing a predetermined duration for every process and activity within a Scrum project. This approach helps Scrum team members manage their workload effectively, avoiding both excess and insufficient work while preventing wasted time on unclear tasks.
+
+<br/>
+
+Some advantages of Time-boxing include:
+- An efficient development process
+- Reduced overhead
+- Increased team velocity
+- More focused team members
+- Well-prepared individuals
+
+<br/>
+
+Time-boxing is essential in Scrum, helping to prevent excessive refinement of items. However, it must be applied carefully to avoid demotivating the team and creating a negative environment.
+
+<br/>
 
 
+## Scrum Time-boxes
+### Sprint
+A <ins>***Sprint***</ins> is a time-boxed iteration lasting one to four weeks, facilitated by the Scrum Master, who protects the Scrum Team from obstacles during the ***Implement*** phase's *Create Deliverables* process. During a Sprint, the Scrum Team transforms requirements from the Prioritized Product Backlog into shippable product features. This structure helps prevent scope creep that could affect the Sprint goal. Sprints should be kept as short as possible for flexibility, but long enough to produce a deliverable that the Product Owner can review and approve.
 
+<br/>
+
+### Sprint Planning Meeting
+<ins>***Sprint Planning Meeting***</ins> is conducted prior to each Sprint as part of the ***Implement*** phase's *Commit User Stories*, *Identify Tasks*, *Estimate Tasks*, and *Update Sprint Backlog* processes. The time allocated for this activity is limited to two hours each week throughout the duration of the Sprint.
+
+The Sprint Planning Meeting has the following objectives:
+1. Objective Definition
+   The Product Owner explains the highest-priority User Stories in the Prioritized Product Backlog to the Scrum Team. The Scrum Team collaborates with the Product Owner and then commits to the User Stories, which define the Sprint goal.
+2. Task Identification and Estimation
+   The Scrum Team decides how to complete the Prioritized Product Backlog items to achieve the Sprint goal, tracking committed User Stories and estimated tasks in the Sprint Backlog.
+
+<br/>
+
+### Daily Standup Meeting
+The <ins>***Daily Standup Meeting***</ins> or <u>***Daily Standup Meeting***</u> is a short daily meeting, Time-boxed to 15 minutes. This meeting is carried out by the Scrum Team as part of the ***Implement*** phase's *Conduct Daily Standup* process. The team meets to share updates on the project by answering these three questions:
+1. What have I done since the last meeting?
+2. What do I plan to do before the next meeting?
+3. What impediments or obstacles (if any) am I currently facing?
+
+<br/>
+
+### Sprint Review Meeting
+The <ins>***Sprint Review Meeting***</ins> or <u>***Sprint Review Meeting***</u> is time-boxed to one hour for each week of the Sprint. During this meeting, held in the ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team presents the current Sprint deliverables to the Product Owner, who reviews them against the Acceptance Criteria to either accept or reject the completed User Stories.
+
+<br/>
+
+### Retrospect Sprint Meeting
+The <ins>***Retrospect Sprint Meeting***</ins> or <u>***Retrospect Sprint Meeting***</u> is Time-boxed to one hour each week of the Sprint duration during the Retrospect Sprint process of ***Review and Retrospect*** phase. In this meeting, the Scrum Team gathers to review and reflect on the current Sprint regarding the processes followed, tools used, collaboration and communication methods, and other relevant aspects of the project. The team reviews what went well and what didn’t in the previous sprint to learn and improve future sprints. Any identified best practices or improvement opportunities may be added to the Scrum Guidance Body.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 35 - 36
+
+<br/>
+
+ 
 
 
 
