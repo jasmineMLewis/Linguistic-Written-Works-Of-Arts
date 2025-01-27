@@ -14,7 +14,7 @@ January 27, 2025
 
 
 # Excerpt 
-I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction***, I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/> 
 <br/> 
@@ -26,7 +26,7 @@ its principles, aspects, phases, benefits, and impediments.
 
 
 # Table of Contents 
-1. [Study Notes Overview](#study-notes-overview)
+1. [Study Guide Overview](#study-guide-overview)
 2. [Scrum Fundamentals Certification](#scrum-fundamentals-certification)
 3. [Overview of Scrum](#overview-of-scrum)
 4. [Scrum Components](#scrum-components)
@@ -42,20 +42,24 @@ Greetings & Salutations, Artistikk R3b3lls!
 <br/>
 <br/>
 
-# Study Notes Overview
+# Study Guide Overview
 I am pursuing my SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified). 
-I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
+I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction***, 
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
-<ins>***Note***<ins> or <u>***Note***</u> 
+<br/>
+<ins>***Note***<ins>
+<br/>
 All Scrum definitions, images, and related text in the 
 [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) 
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is 
 article is intended for informational and educational purposes.
 
-## Study Notes Contents
-My SFC Exam Study Notes are comprised of eight sections:
-1. <ins>***Part I: Introduction***<ins>
+<br/>
+
+## Study Guide Contents
+My SFC Exam Study Guide are comprised of eight sections:
+1. ***Part I: Introduction***
 2. [Part II: Scrum Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-ii-principles/scrum-fundamentals-certification-part-ii-principles.md)
 3. Part III: Scrum Aspects
 4. Part IV: Scrum Phases & Phases
@@ -74,7 +78,7 @@ My SFC Exam Study Notes are comprised of eight sections:
 
 <br/>
 
-As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile my notes into articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -368,7 +372,7 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
 SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
-In this section, ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I:  Introduction***, I provided 
+In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part I:  Introduction***, I provided 
 a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/>

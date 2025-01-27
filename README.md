@@ -29,9 +29,9 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 ---
 
 
-# Scrum Certifications
+# Scrum Fundamentals Certification
 
-## Articles | 1
+## Articles | 2
 
 ![Image - ScrumStudy’s Scrum Fundamentals Certification | Guide - Part I: Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-title-introduction.png)
 
