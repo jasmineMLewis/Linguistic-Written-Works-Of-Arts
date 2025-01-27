@@ -37,9 +37,9 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 
 
 
-1. [ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/study-guide/part-i-intoduction/scrum-fundamentals-certification-part-i-intoduction.md)
+1. [ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-i-intoduction/scrum-fundamentals-certification-part-i-intoduction.md)
 
-2. [ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Scrum Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/study-guide/part-ii-principles/scrum-fundamentals-certification-part-ii-principles.md)
+2. [ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Scrum Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-ii-principles/scrum-fundamentals-certification-part-ii-principles.md)
 
 
 
