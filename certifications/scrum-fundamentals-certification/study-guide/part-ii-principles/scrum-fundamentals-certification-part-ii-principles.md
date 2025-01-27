@@ -52,6 +52,9 @@ to learn how to more sophistically implement the Scrum framework, an agile metho
 <br/>
 
 ***Note***
+
+<br/>
+
 All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
@@ -198,12 +201,11 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 
 <br/>
 
-
 # Self-Organization
 
 ![Image – Self-Organization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-self-organization.png)
 
-<ins>***Self-Organization</ins> allows team members to deliver greater value because Scrum embraces the idea employees are self-motivated and seek greater responsibility. Scrum's leadership style is "supporting leadership" which focus its needs on the Scrum Team to achieve results.
+<ins>***Self-Organization*** </ins> allows team members to deliver greater value because Scrum embraces the idea employees are self-motivated and seek greater responsibility. Scrum's leadership style is "supporting leadership" which focus its needs on the Scrum Team to achieve results.
 
 <br/>
 
@@ -222,9 +224,11 @@ Finally, in ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint
 <br/>
 
 *Identification of Phases: Initiate, Plan and Estimate, Implement, Review and Retrospect, Release*
+<br/>
+
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 15
 
-<br/> 
+<br/>
 
 ## Benefits of Self-Organization
 The benefits of self-organization are the following:
@@ -233,15 +237,141 @@ The benefits of self-organization are the following:
 - Growth – innovative and creative environment
 - Approach – satisfy requirements with simplest and best techniques
 
-***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27
 
 <br/>
 
+# Collaboration
+
+![Image – Collaboration](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-collaboration.png) 
+
+ 
+<ins>***Collaboration*** </ins> is the Scrum Core Team working together and liaising with business stakeholders to create and validate deliverables of the project to meet goals outlined in the Project Vision
+
+during the ***Initiate*** phase. Cooperation occurs when work product consists of the sum of work efforts of various team members. Collaboration occurs when a team works together to play off each other's inputs to produce a greater product. To achieve full collaboration, establishing trust between team members and between team members and business stakeholders. Collaborative work three core dimensions are *awareness*, *articulation*, and *appropriation*.
+
+<br/>
+
+### Awareness
+Individuals working together need to be aware of each other's work.
+
+<br/>
+
+### Articulation
+Individuals collaborating must partition work into sections, divide sections among team members, and after work completion, reintegrate work.
+
+<br/>
+
+### Appropriation
+Adapt technology to one's own situation; technology may be used in a manner completely different than expected by designers.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 29
+
+<br/>
+
+## Benefits of Collaboration in Scrum Projects
+"Customer Collaboration over contract negotiation" is emphasized in The Agile Manifesto written in 2001 by Martin Fowler and Jim Highsmith. The Scrum framework approach is to allow the Scrum Core Team members (Product Owner, Scrum Master, and Scrum Team) collaborate with each other and business stakeholders to create deliverables that provide the greatest possible value to the customer.  
 
 
+Collaboration ensures the following project benefits are realized:
+- Change Requests are minimized.
+- Risks are efficiently identified and mitigated.
+- Efficiency is increased.
+- Continuous improvement is incorporated.
+
+<br/>
+ 
+
+### Change Requests are minimized.
+The need for changes due to poorly refined requirements are minimized.
+
+<ins>***Example*** </ins>   
+
+During the ***Initiate*** phases' *Create Project Vision*, *Develop Epic(s)*, and *Create Prioritized Product Backlog* processes, the Product Owner collaborates with business stakeholders to create the Project Vision, Epic(s), and Prioritized Product Backlog. This ensures clarity for Scrum Core Team members work that is required to complete the project. Through a transparent Prioritized Product Backlog, the Scrum Team collaborates with the Product Owner and business stakeholders to create project deliverables.
+ 
+
+<br/>
+
+The ***Implement*** phases' *Conduct Daily Standup* and *Refine Prioritized Product Backlog* processes and ***Review and Retrospect*** phase's *Retrospect Sprint* process, provide scope to the Scrum Core Team to discuss what has been completed and collaborate on what needs to be done. Therefore, the number of *Change Requests* from the customer and rework is minimized.
 
 
+<br/>
 
+### Risks are efficiently identified and mitigated.
+*Risks* are identified and handled efficiently.
+
+<ins>***Example*** </ins>  
+
+Project risks are identified and assessed during the ***Initiate*** phase's *Develop Epic(s)* process, and ***Implement*** phases' *Create Deliverables* and *Conduct Daily Standup* processes by the Scrum Core Team members. The Scrum meeting tools such as the *Daily Standup Meeting*, *Sprint Planning Meeting*, *Prioritized Product Backlog Review Meeting*, and other meetings provide opportunities for the team identify and assess risks, as well as to efficiently implement risk responses.
+
+<br/>
+
+### Efficiency is increased.
+The true potential of the team is realized. 
+
+<ins>***Example*** </ins>
+
+During ***Implement*** phase' *Conduct Daily Standup* process, it provides an opportunity for the Scrum Team to collaborate and understand each members' strengths and weaknesses. If a team member misses a task deadline, the Scrum Team collaborates to complete the tasks and meet the Sprint targets.
+
+<br/>
+
+### Continuous improvement is incorporated.
+Continuous improvement is ensured through lessons learned.
+
+<ins> ***Example*** </ins>
+
+During ***Review and Retrospect*** phase's *Retrospect Sprint* process, the Scrum Team identifies what went well and what did not in the previous Sprint. This allows the Scrum Master to collaborate with the team to enhance their performance for the upcoming Sprint. This will also make collaboration more effective in the next sprint.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 29 – 30
+
+<br/>
+
+## Importance of Colocation in Collaboration
+Effective Scrum practices often require high-bandwidth communication, which is best achieved when team members are collocated. Preferred communication methods include face-to-face interactions, decision rooms, scrum boards, wall displays, shared tables, and other options. Co-location enables both formal and informal interactions among team members.
+
+Some of the benefits of co-location include:
+- Questions are answered promptly.
+- Issues are resolved immediately.
+- There is less friction between interactions.
+- Trust is earned and granted much more quickly.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 31
+
+<br/> 
+
+## Collaboration in Distributed Teams
+While collocated teams are generally preferred, there are instances when the Scrum Team may be distributed. Scrum team members may work from various physical locations, including different cities or countries, and may also be working from home. Even when teams are collocated, members should have the flexibility to work remotely in case of extenuating circumstances that could affect the team's ability to function effectively in a collocated environment. In such situations, it may be necessary to ensure that Scrum Team members are set up to work effectively while distributed.
+
+### Scrum Project Tool
+Utilizing a collaborative Scrum project tool is strongly advised to ensure team members work productively, especially when they are not located in the same workplace.
+
+The Scrum Project Tool should ideally offer the following:
+- Clearly define all Scrum roles and provide messaging and collaboration tools for team members to communicate effectively with each other.
+- Develop and utilize key Scrum artifacts.
+- Outline the workflow for different Scrum processes in the Initiate, Planning, Implement, Retrospect, and Release phases.
+- Scale to organization or enterprise levels.
+- Schedule essential Scrum meetings. These meetings can be arranged using a separate video conferencing tool.
+- Facilitate easy online communication among Scrum Team members, whether one-on-one or via distributed groups and discussion forums.
+- Document the lessons learned from retrospectives and similar activities, ensuring that relevant reports are generated in real-time.
+- Implement automation to ensure that templates and guidance from the Scrum Guidance Body are accessible to all Scrum Teams within the organization.
+- Allow the Scrum Guidance Body to evaluate Scrum-related practices.
+- Clone similar projects, Epics, and User Stories to help Scrum Team members reduce time spent on unnecessary or duplicate documentation, while also learning from experiences of similar completed work.
+
+<br/>
+
+Benefits of using a Scrum Project Tool for distributed teams include the following:
+- Facilitate Scrum Team members to work anytime and from any location.
+- Automation of reporting, messaging, scheduling, workflows, and other items.
+- Implementing standard guidelines throughout the organization by automating the recommendations from the Scrum Guidance Body.
+- Increased efficiency achieved by reducing time spent on creating repetitive or unnecessary documentation when cloning similar projects.
+- Collaborating with a more diverse team often brings in local perspectives and experiences.
+- Fewer logistical challenges compared to those of having all team members in one location.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 31 - 32
+
+<br/> 
+
+ 
 
 
 
