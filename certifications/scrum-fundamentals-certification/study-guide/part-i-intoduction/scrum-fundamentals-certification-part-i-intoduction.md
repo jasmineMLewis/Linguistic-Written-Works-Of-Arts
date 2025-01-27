@@ -48,12 +48,13 @@ I am taking this course and exam because it introduces the Scrum framework. Scru
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/>
-<ins>***Note***<ins>
+
+***Note***
+
 <br/>
-All Scrum definitions, images, and related text in the 
-[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) 
-are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is 
-article is intended for informational and educational purposes.
+
+All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
+are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
 <br/>
 
@@ -78,7 +79,7 @@ My SFC Exam Study Guide are comprised of eight sections:
 
 <br/>
 
-As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile my notes into articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile study notes into articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 

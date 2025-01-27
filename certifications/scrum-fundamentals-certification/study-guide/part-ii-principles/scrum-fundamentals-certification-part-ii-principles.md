@@ -22,6 +22,8 @@ In my previous article Scrum Fundamentals Certification (SFC) | Study Guide - Pa
 # Subtitle
 Learn about Scrum framework's 6 Principles: Empirical Process Control, Self-Organization, Collaboration, Value-Based Prioritization, Time-boxing, and Iterative Development to pass SCRUMstudy’s Scrum Fundamentals Certification (SFC)
 
+<br/>
+<br/>
 
 # Table of Contents 
 1. [Study Guide Overview](#study-guide-overview)
@@ -48,10 +50,9 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 to learn how to more sophistically implement the Scrum framework, an agile methodology, into my software and project management projects. In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles*** , I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
-<ins>***Note***<ins>
-<br/>
-All Scrum definitions, images, and related text in 
-[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/ scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
+
+***Note***
+All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
 are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
 
 <br/>
@@ -77,7 +78,7 @@ My SFC Exam Study Guide are comprised of eight sections:
 
 <br/>
 
-As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile my notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile study notes into a articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -102,6 +103,8 @@ Six Scrum Principles are the foundation on of the Scrum framework and can be app
  
 <ins>***Empirical Process Control*** </ins> allows learning through observation and experimentation, a pivotal aspect in the Scrum's framework to complete projects or products when clear and concise upfront planning and details are not present at the beginning or mid-way through product development. This principle emphasizes the core philosophy of Scrum based on three main ideas: *transparency, inspection,* and *adaptation.*
 
+<br/> 
+
 ## Transparency
 Transparency allows all aspects of any Scrum process to be viewed by everyone. This ensures information is available throughout the organization and develops an open work culture.
 
@@ -110,11 +113,15 @@ There are three components of ***Transparency***:
 - Meetings
 - Information Radiators
 
+<br/>
+
 There are four types of ***Artifacts***:
 - Project Vision Statement
 - Prioritized Product Backlog
 - Sprint Backlog
 - Release Planning Schedule
+
+<br/>
 
 There are five types of ***Meetings***:
 - Sprint Planning Meetings
@@ -123,16 +130,22 @@ There are five types of ***Meetings***:
 - Retrospect Sprint Meetings
 - Release Planning Meeting
 
+<br/>
+
 There are three types of ***Information Radiators***:
 - Sprint Burndown Chart
 - Scrumboard
 - Sprint Burnup Chart
+
+<br/>
 
 ### Artifacts
 - *Project Vision Statement* is viewable by business stakeholders and the Scrum Team.
 - *Prioritized Product Backlog* displays prioritized User Stories for everyone to view.
 - *Sprint Backlog* lists tasks associated with committed User Stories to be completed by Scrum team in current Sprint.
 - *Release Planning Schedule* can coordinate work across multiple Scrum Teams and other business stakeholders.
+
+<br/>
 
 ### Meetings
 - *Sprint Planning Meetings* allow Scrum Teams to estimate time and commitment needed to deliver priority User Stories and commit to set of User Stories complete for a Sprint.
@@ -141,10 +154,14 @@ There are three types of ***Information Radiators***:
 - *Retrospect Sprint Meetings* conducted after the Sprint Review Meetings on the last day of the Sprint allows the Scrum Team to discuss improvement opportunities for future Sprints.
 - *Release Planning Meeting* is conducted to enable the Scrum Team to have an overview of the planned releases and delivery schedule for development of the product.
 
+<br/>
+
 ### Information Radiators
 - *Sprint Burndown Chart*, *Scrumboard*, and *Sprint Burnup Chart* is visible to the Scrum Team to monitor progress.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 22 - 23
+
+<br/>
 
 ## Inspection
 Inspection in Scrum is depicted through the following:
@@ -153,6 +170,8 @@ Inspection in Scrum is depicted through the following:
 - Final Inspection and approval of deliverables by the Product Owner and the customer in *Demonstrate and Validate Sprint* process.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 24
+
+<br/>
 
 ## Adaptation
 Adaptation allows the Scrum Core Team and business stakeholders learn through transparency and inspection to adapt by making improvement in their work.
@@ -164,6 +183,8 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 - Scrum Guidance
 - Retrospect Sprint Meetings
 - Retrospect Project Meetings
+
+<br/>
 
 ### Example of Opportunities for Adaptation
 - In *Daily Standup Meetings*, Scrum Team members discuss impediments to completing tasks and seeking assistance from other team members. More experienced Scrum Team members mentor less experience in knowledge of the project or technology.
@@ -178,10 +199,43 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 <br/>
 
 
+# Self-Organization
 
+![Image – Self-Organization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-self-organization.png)
 
+<ins>***Self-Organization</ins> allows team members to deliver greater value because Scrum embraces the idea employees are self-motivated and seek greater responsibility. Scrum's leadership style is "supporting leadership" which focus its needs on the Scrum Team to achieve results.
 
+<br/>
 
+Within the ***Initiate*** phase, the Project Vision is defined in the *Create Project Vision* process, followed by selecting the Product Owner, Scrum Master and Scrum Team in the *Identify Scrum Master and Business Stakeholder(s)* and *Form Scrum Team* processes. The Scrum Core Team collaborate with business stakeholders to *Develop Epic(s)*, an ***Initiate*** phase's process and *Create User Stories* process in ***Plan and Estimate*** phase. The team's expertise determines technical and management input necessary to execute planned work of project during the *Create Deliverables* process in ***Implement*** phase.
+
+<br/>
+
+The Product Owner, Voice of Customer, prioritizes work, and tasks breakdown and estimation is completed by the self-organized Scrum Team during *Identify Tasks* and *Estimate Tasks* processes of ***Plan and Estimate*** phase. During these processes, the Scrum Team determine their work responsibilities, and assist the Product Owner to identity risks and dependencies. Throughout the Sprint, the Scrum Team interface daily through Daily Standup Meetings to discuss progress, impediments, and need of assistance. The Scrum Team interact with other teams through Scrum of Scrum (SoS) meetings.
+
+<br/>
+
+Finally, in ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team and Scrum Master work together to show the product increment created during the Sprint and acceptance of completed deliverables. In ***Release*** phase's *Ship Deliverables* process, work is sent to production. Since the Prioritized Product Backlog arranges User Stories by value of importance, the Product Owner and customer can visualize value created after every Sprint.
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27
+
+<br/>
+
+*Identification of Phases: Initiate, Plan and Estimate, Implement, Review and Retrospect, Release*
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 15
+
+<br/> 
+
+## Benefits of Self-Organization
+The benefits of self-organization are the following:
+- Ownership - collective buy-in and shared pride in work
+- Motivation – leads to enhanced team performance
+- Growth – innovative and creative environment
+- Approach – satisfy requirements with simplest and best techniques
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles| Page: 27 
+
+<br/>
 
 
 
