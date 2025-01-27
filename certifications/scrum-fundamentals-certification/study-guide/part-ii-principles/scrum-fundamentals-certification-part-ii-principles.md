@@ -57,8 +57,8 @@ article is intended for informational and educational purposes.
 
 ## Study Notes Contents
 My SFC Exam Study Notes are comprised of eight sections:
-1. [Part I:  Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-notes/part-i-intoduction/scrum-fundamentals-certification-part-i-intoduction.md) 
-2. <ins>***Part II: Scrum Principles***</ins>  or  <u>***Part II: Scrum Principles***</u> 
+1. [Part I:  Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-i-intoduction/scrum-fundamentals-certification-part-i-intoduction.md) 
+2. <ins>***Part II: Scrum Principles***</ins>
 3. Part III: Scrum Aspects
 4. Part IV: Scrum Phases & Phases
 5. Part V: Scaling Scrum
