@@ -8,7 +8,7 @@ Jasmine Monique Lewis
 December 31, 2024
 
 ### Last Modified
-January 27, 2025
+January 28, 2025
 
 ![Image – 6 Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-title-principles.png)
 
@@ -252,17 +252,17 @@ during the ***Initiate*** phase. Cooperation occurs when work product consists o
 
 <br/>
 
-### Awareness
+## Awareness
 Individuals working together need to be aware of each other's work.
 
 <br/>
 
-### Articulation
+## Articulation
 Individuals collaborating must partition work into sections, divide sections among team members, and after work completion, reintegrate work.
 
 <br/>
 
-### Appropriation
+## Appropriation
 Adapt technology to one's own situation; technology may be used in a manner completely different than expected by designers.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 29
