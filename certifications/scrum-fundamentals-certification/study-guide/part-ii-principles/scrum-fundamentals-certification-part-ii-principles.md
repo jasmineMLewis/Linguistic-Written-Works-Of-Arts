@@ -287,7 +287,7 @@ The need for changes due to poorly refined requirements are minimized.
 
 <ins>***Example*** </ins>   
 
-During the ***Initiate*** phases' *Create Project Vision*, *Develop Epic(s)*, and *Create Prioritized Product Backlog* processes, the Product Owner collaborates with business stakeholders to create the Project Vision, Epic(s), and Prioritized Product Backlog. This ensures clarity for Scrum Core Team members work that is required to complete the project. Through a transparent Prioritized Product Backlog, the Scrum Team collaborates with the Product Owner and business stakeholders to create project deliverables.
+During the ***Initiate*** phase's *Create Project Vision*, *Develop Epic(s)*, and *Create Prioritized Product Backlog* processes, the Product Owner collaborates with business stakeholders to create the Project Vision, Epic(s), and Prioritized Product Backlog. This ensures clarity for Scrum Core Team members work that is required to complete the project. Through a transparent Prioritized Product Backlog, the Scrum Team collaborates with the Product Owner and business stakeholders to create project deliverables.
  
 
 <br/>
@@ -311,7 +311,7 @@ The true potential of the team is realized.
 
 <ins>***Example*** </ins>
 
-During ***Implement*** phase' *Conduct Daily Standup* process, it provides an opportunity for the Scrum Team to collaborate and understand each members' strengths and weaknesses. If a team member misses a task deadline, the Scrum Team collaborates to complete the tasks and meet the Sprint targets.
+During ***Implement*** phase's *Conduct Daily Standup* process, it provides an opportunity for the Scrum Team to collaborate and understand each members' strengths and weaknesses. If a team member misses a task deadline, the Scrum Team collaborates to complete the tasks and meet the Sprint targets.
 
 <br/>
 
