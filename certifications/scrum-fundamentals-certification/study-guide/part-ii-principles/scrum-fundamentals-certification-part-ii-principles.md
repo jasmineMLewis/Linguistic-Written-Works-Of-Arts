@@ -590,6 +590,7 @@ project management to take SCRUMstudy's [Scrum Fundamentals Certification (SFC)]
 I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
+<br/>
  
 <ins>***Until next time:***</ins> *it's not the project, it's the six principles.*
 

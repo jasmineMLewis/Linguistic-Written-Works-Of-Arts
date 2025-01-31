@@ -50,7 +50,7 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 
 <br/>
 
-<u>***Note***</u>
+<ins>***Note***</ins>
 
 <br/>
 
@@ -91,6 +91,8 @@ As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)]
 The [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an 
 introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
 
+<br/>
+ 
 ## Examination Format
 The exam format consists of the following:
 - Multiple choice
@@ -101,6 +103,8 @@ The exam format consists of the following:
 - 60 minutes duration
 - Online non-proctored exam
 - Can be attempted multiple times for free
+
+<br/>
 
 ## Examination Topics
 The exam format consists of the following:
@@ -123,9 +127,13 @@ Agile methodologies are focused on the four factors:
 3. Continuous Improvement
 4. Active Stakeholder Engagement
 
+<br/>
+ 
 ## What is Scrum?
 Scrum is one of the most popular Agile methodologies. It delivers value throughout a project expeditiously due to its adaptative, iterative, fast, flexible, and effective framework.
 
+<br/>
+ 
 ## Scum Impediments
 A Scrum project involves a collaborative effort to create a new product, service, or other result as defined in the Project Vision Statement. Projects are impacted by impediments that makes it difficult for teams to plan, implement, manage, and deliver. Project impediments include the following:
 1.	Time 
@@ -151,7 +159,9 @@ Scrum consist of three primary components: principles, aspects, and phases. SCRU
 - Phases (Chapters 8-– 12)
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 7 
- 
+
+<br/>
+
 ## Principles 
 Scrum consists of six principles:
 - Empirical Process Control
@@ -163,6 +173,8 @@ Scrum consists of six principles:
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 9
 
+<br/>
+
 ## Aspects
 Scrum consists of five aspects:
 - Organization
@@ -172,6 +184,9 @@ Scrum consists of five aspects:
 - Risk
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 11 - 14
+
+
+<br/>
  
 ## Phases
 Scrum consists of five phases: 
@@ -183,8 +198,8 @@ Scrum consists of five phases:
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 15
 
-<br/> 
-
+<br/>
+<br/>
 
 # Scrum Principles
 
@@ -434,10 +449,12 @@ SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com
 In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part I:  Introduction***, I provided 
 a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
+<br/> 
 <br/>
- 
+
 <ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects,
 not only software applications.*
+
 
 
 <br/>
