@@ -586,11 +586,8 @@ deliverables are more appropriate for business value.
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or 
-project management to take
-SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
-In this section,***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, 
-I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's 
-Scrum Fundamentals Certification.
+project management to take SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section,***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, 
+I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
  
