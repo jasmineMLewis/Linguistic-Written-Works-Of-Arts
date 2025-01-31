@@ -14,13 +14,22 @@ January 28, 2025
 
 
 # Excerpt
-In my previous article Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction, I provide a synopsis of the examination, an overview of scrum, its principles, aspects, phases, benefits, and impediments. As aforementioned, I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC) to learn how to more sophistically implement the Scrum framework, an agile methodology, into my software and project management projects. In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
+In my previous article Scrum Fundamentals Certification (SFC) | Study Guide - Part I: 
+Introduction, I provide a synopsis of the examination, an overview of scrum, its principles, 
+aspects, phases, benefits, and impediments. As aforementioned, I am pursuing my SCRUMstudy's 
+Scrum Fundamentals Certification (SFC) to learn how to more sophistically implement the
+Scrum framework, an agile methodology, into my software and project management projects.
+In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, 
+I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum 
+Fundamentals Certification.
 
 <br/>
 <br/>
 
 # Subtitle
-Learn about Scrum framework's 6 Principles: Empirical Process Control, Self-Organization, Collaboration, Value-Based Prioritization, Time-boxing, and Iterative Development to pass SCRUMstudy’s Scrum Fundamentals Certification (SFC)
+Learn about Scrum framework's 6 Principles: Empirical Process Control, Self-Organization, 
+Collaboration, Value-Based Prioritization, Time-boxing, and Iterative Development to 
+pass SCRUMstudy’s Scrum Fundamentals Certification (SFC)
 
 <br/>
 <br/>
@@ -32,7 +41,7 @@ Learn about Scrum framework's 6 Principles: Empirical Process Control, Self-Orga
 4. [Self-Organization](#self-organization)
 5. [Collaboration](#collaboration)
 6. [Value-Based Prioritization](#value-based-prioritization)
-7. [Time-boxing](#time-boxing)
+7. [Time-Boxing](#time-boxing)
 8. [Iterative Development](#iterative-development)
 9. [Conclusion](#conclusion)
 
@@ -45,9 +54,14 @@ Greetings & Salutations, Artistikk R3b3lls!
 # Study Guide Overview
 In my previous article
 [Scrum Fundamentals Certification (SFC) | Study Guide - Part I: Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/study-guide/part-i-intoduction/scrum-fundamentals-certification-part-i-intoduction.md),
-I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments. As aforementioned, I am pursuing my SCRUMstudy's
+I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments. 
+As aforementioned, I am pursuing my SCRUMstudy's
 [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
-to learn how to more sophistically implement the Scrum framework, an agile methodology, into my software and project management projects. In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles*** , I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
+to learn how to more sophistically implement the Scrum framework, an agile methodology, into
+my software and project management projects. In this 
+section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles*** , 
+I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's 
+Scrum Fundamentals Certification.
 
 <br/>
 
@@ -55,8 +69,11 @@ to learn how to more sophistically implement the Scrum framework, an agile metho
 
 <br/>
 
-All Scrum definitions, images, and related text in [Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
-are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
+All Scrum definitions, images, and related text in 
+[Scrum Book of Knowledge (SBOK) 4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)
+are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK
+will state the page for reference. This is article is intended for informational and
+educational purposes.
 
 <br/>
 
@@ -81,7 +98,9 @@ My SFC Exam Study Guide are comprised of eight sections:
 
 <br/>
 
-As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), I will compile study notes into a articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's 
+[Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified), 
+I will compile study notes into a articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -104,12 +123,19 @@ Six Scrum Principles are the foundation on of the Scrum framework and can be app
 
 ![Image – Empirical Process Control](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-empirical-process-control.png)
  
-<ins>***Empirical Process Control*** </ins> allows learning through observation and experimentation, a pivotal aspect in the Scrum's framework to complete projects or products when clear and concise upfront planning and details are not present at the beginning or mid-way through product development. This principle emphasizes the core philosophy of Scrum based on three main ideas: *transparency, inspection,* and *adaptation.*
+<ins>***Empirical Process Control*** </ins> allows 
+learning through observation and experimentation, a pivotal aspect 
+in the Scrum's framework to complete projects or products when clear and 
+concise upfront planning and details are not present at the beginning or mid-way 
+through product development. This principle emphasizes the core philosophy of 
+Scrum based on three main ideas: *transparency, inspection,* and *adaptation.*
 
 <br/> 
 
 ## Transparency
-Transparency allows all aspects of any Scrum process to be viewed by everyone. This ensures information is available throughout the organization and develops an open work culture.
+Transparency allows all aspects of any Scrum process to be viewed by everyone. 
+This ensures information is available throughout the organization and develops 
+an open work culture.
 
 There are three components of ***Transparency***:
 - Artifacts
@@ -201,7 +227,7 @@ There are multiple opportunities in the Scrum framework for ***Adaptation***, be
 
 <br/>
 
-# Self-Organization
+# Self Organization
 
 ![Image – Self-Organization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-self-organization.png)
 
@@ -287,12 +313,20 @@ The need for changes due to poorly refined requirements are minimized.
 
 <ins>***Example*** </ins>   
 
-During the ***Initiate*** phase's *Create Project Vision*, *Develop Epic(s)*, and *Create Prioritized Product Backlog* processes, the Product Owner collaborates with business stakeholders to create the Project Vision, Epic(s), and Prioritized Product Backlog. This ensures clarity for Scrum Core Team members work that is required to complete the project. Through a transparent Prioritized Product Backlog, the Scrum Team collaborates with the Product Owner and business stakeholders to create project deliverables.
+During the ***Initiate*** phase's *Create Project Vision*, *Develop Epic(s)*, and 
+*Create Prioritized Product Backlog* processes, the Product Owner collaborates with 
+business stakeholders to create the Project Vision, Epic(s), and Prioritized Product Backlog. 
+This ensures clarity for Scrum Core Team members work that is required to complete the project. 
+Through a transparent Prioritized Product Backlog, the Scrum Team collaborates with the 
+Product Owner and business stakeholders to create project deliverables.
  
 
 <br/>
 
-The ***Implement*** phases' *Conduct Daily Standup* and *Refine Prioritized Product Backlog* processes and ***Review and Retrospect*** phase's *Retrospect Sprint* process, provide scope to the Scrum Core Team to discuss what has been completed and collaborate on what needs to be done. Therefore, the number of *Change Requests* from the customer and rework is minimized.
+The ***Implement*** phases' *Conduct Daily Standup* and *Refine Prioritized Product Backlog* 
+processes and ***Review and Retrospect*** phase's *Retrospect Sprint* process, provide scope 
+to the Scrum Core Team to discuss what has been completed and collaborate on what needs to be 
+done. Therefore, the number of *Change Requests* from the customer and rework is minimized.
 
 
 <br/>
@@ -302,7 +336,12 @@ The ***Implement*** phases' *Conduct Daily Standup* and *Refine Prioritized Prod
 
 <ins>***Example*** </ins>  
 
-Project risks are identified and assessed during the ***Initiate*** phase's *Develop Epic(s)* process, and ***Implement*** phases' *Create Deliverables* and *Conduct Daily Standup* processes by the Scrum Core Team members. The Scrum meeting tools such as the *Daily Standup Meeting*, *Sprint Planning Meeting*, *Prioritized Product Backlog Review Meeting*, and other meetings provide opportunities for the team identify and assess risks, as well as to efficiently implement risk responses.
+Project risks are identified and assessed during the ***Initiate*** phase's *Develop Epic(s)* 
+process, and ***Implement*** phases' *Create Deliverables* and *Conduct Daily Standup* processes 
+by the Scrum Core Team members. The Scrum meeting tools such as the *Daily Standup Meeting*, 
+*Sprint Planning Meeting*, *Prioritized Product Backlog Review Meeting*, and other meetings 
+provide opportunities for the team identify and assess risks, as well as to efficiently implement 
+risk responses.
 
 <br/>
 
@@ -311,7 +350,10 @@ The true potential of the team is realized.
 
 <ins>***Example*** </ins>
 
-During ***Implement*** phase's *Conduct Daily Standup* process, it provides an opportunity for the Scrum Team to collaborate and understand each members' strengths and weaknesses. If a team member misses a task deadline, the Scrum Team collaborates to complete the tasks and meet the Sprint targets.
+During ***Implement*** phase's *Conduct Daily Standup* process, it provides an opportunity for 
+the Scrum Team to collaborate and understand each members' strengths and weaknesses. If a team 
+member misses a task deadline, the Scrum Team collaborates to complete the tasks and meet the 
+Sprint targets.
 
 <br/>
 
@@ -320,7 +362,10 @@ Continuous improvement is ensured through lessons learned.
 
 <ins> ***Example*** </ins>
 
-During ***Review and Retrospect*** phase's *Retrospect Sprint* process, the Scrum Team identifies what went well and what did not in the previous Sprint. This allows the Scrum Master to collaborate with the team to enhance their performance for the upcoming Sprint. This will also make collaboration more effective in the next sprint.
+During ***Review and Retrospect*** phase's *Retrospect Sprint* process, the Scrum Team 
+identifies what went well and what did not in the previous Sprint. This allows the Scrum 
+Master to collaborate with the team to enhance their performance for the upcoming Sprint. 
+This will also make collaboration more effective in the next sprint.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 29 – 30
 
@@ -373,24 +418,52 @@ Benefits of using a Scrum Project Tool for distributed teams include the followi
 
 <br/>
  
-# Value-based Prioritization
+# Value Based Prioritization
 
 ![Image – Value Based Prioritization](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-value-based-prioritization.png)
 
 
-The Scrum framework focuses on delivering maximum business value in the shortest time possible. Prioritization is one of the most effective tools for ensuring the greatest value is achieved quickly. Prioritization is the process of determining what tasks must be done immediately versus those that can be addressed later. The traditional Waterfall model of project management employs a sequential process with multiple levels of task prioritization to manage projects effectively. It uses prioritization matrices to delegate tasks and certain tasks must be completed first to expedite the development process and achieve project goals. It uses prioritization matrices to assign tasks, ensuring that some must be completed first to accelerate the development process and achieve project goals.
+The Scrum framework focuses on delivering maximum business value in the shortest
+time possible. Prioritization is one of the most effective tools for ensuring the
+greatest value is achieved quickly. Prioritization is the process of determining
+what tasks must be done immediately versus those that can be addressed later. The
+traditional Waterfall model of project management employs a sequential process with
+multiple levels of task prioritization to manage projects effectively. It uses
+prioritization matrices to delegate tasks and certain tasks must be completed 
+first to expedite the development process and achieve project goals. It uses
+prioritization matrices to assign tasks, ensuring that some must be completed 
+first to accelerate the development process and achieve project goals.
 
 <br/>
 
-The Scrum framework employs <ins>***Value-based Prioritization***</ins> or <u>***Value-based Prioritization***</u> as a core principle for adaptability and iterative development, providing structure and functionality for development of product or service. Scrum focuses on delivering a valuable product or service to customers early and continuously. The Product Owner prioritizes User Stories in the Prioritized Product Backlog. After the Product Owner receives business requirements from the customer, they are documented as Epics and User Stories. The Product Owner collaborates with customers and business stakeholders to identify the business requirements that provide the most value. To effectively prioritize user stories, the Product Owner needs to understand what customers want and value, organizing the stories in a list from highest to lowest priority. The processes where the principle of Value-based Prioritization is applied include  ***Initiate*** phase's *Create a Prioritized Product Backlog* and ***Implement*** phase's *Refine Prioritized Product Backlog*.
+The Scrum framework employs <ins>***Value-based Prioritization***</ins> 
+or <u>***Value-based Prioritization***</u> as a core principle for adaptability
+and iterative development, providing structure and functionality for development 
+of product or service. Scrum focuses on delivering a valuable product or service 
+to customers early and continuously. The Product Owner prioritizes User Stories 
+in the Prioritized Product Backlog. After the Product Owner receives business 
+requirements from the customer, they are documented as Epics and User Stories. 
+The Product Owner collaborates with customers and business stakeholders to identify 
+the business requirements that provide the most value. To effectively prioritize user 
+stories, the Product Owner needs to understand what customers want and value, organizing 
+the stories in a list from highest to lowest priority. The processes where the principle 
+of Value-based Prioritization is applied 
+include  ***Initiate*** phase's *Create a Prioritized Product Backlog* 
+and ***Implement*** phase's *Refine Prioritized Product Backlog*.
 
 <br/>
 
-Simultaneously, the Product Owner must collaborate with the Scrum Team to identify project risks and uncertainties, as these may lead to negative consequences. It is important to consider this when prioritizing User Stories using a value-based approach. Additionally, the Scrum Team notifies the Product Owner of any dependencies arising from implementation.
+Simultaneously, the Product Owner must collaborate with the Scrum Team to identify project 
+risks and uncertainties, as these may lead to negative consequences. It is important to 
+consider this when prioritizing User Stories using a value-based approach. Additionally, 
+the Scrum Team notifies the Product Owner of any dependencies arising from implementation.
 
 <br/>
 
-The Product Owner must translate the inputs and needs of project stakeholders to create a Prioritized Product Backlog. Prioritization leads to deliverables that meet customer requirements while maximizing business value in the shortest time possible. While prioritizing the User Stories in the Prioritized Product Backlog, the following three factors are considered:
+The Product Owner must translate the inputs and needs of project stakeholders to create
+a Prioritized Product Backlog. Prioritization leads to deliverables that meet customer
+requirements while maximizing business value in the shortest time possible. While prioritizing
+the User Stories in the Prioritized Product Backlog, the following three factors are considered:
 - Value
 - Risk or uncertainty
 - Dependencies
@@ -399,7 +472,7 @@ The Product Owner must translate the inputs and needs of project stakeholders to
 
 <br/>
 
-# Time-boxing
+# Time Boxing
  
 ![Image – Time-Boxing](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-time-boxing.png)
 
@@ -446,12 +519,22 @@ The <ins>***Daily Standup Meeting***</ins> is a short daily meeting, Time-boxed 
 <br/>
 
 ### Sprint Review Meeting
-The <ins>***Sprint Review Meeting***</ins> is time-boxed to one hour for each week of the Sprint. During this meeting, held in the ***Review and Retrospect*** phase's *Demonstrate and Validate Sprint* process, the Scrum Team presents the current Sprint deliverables to the Product Owner, who reviews them against the Acceptance Criteria to either accept or reject the completed User Stories.
+The <ins>***Sprint Review Meeting***</ins> is time-boxed to one hour for each week of the Sprint. 
+During this meeting, held in the ***Review and Retrospect*** phase's *Demonstrate and Validate 
+Sprint* process, the Scrum Team presents the current Sprint deliverables to the Product Owner, 
+who reviews them against the Acceptance Criteria to either accept or reject the completed User 
+Stories.
 
 <br/>
 
 ### Retrospect Sprint Meeting
-The <ins>***Retrospect Sprint Meeting***</ins> is Time-boxed to one hour each week of the Sprint duration during the Retrospect Sprint process of ***Review and Retrospect*** phase. In this meeting, the Scrum Team gathers to review and reflect on the current Sprint regarding the processes followed, tools used, collaboration and communication methods, and other relevant aspects of the project. The team reviews what went well and what didn’t in the previous sprint to learn and improve future sprints. Any identified best practices or improvement opportunities may be added to the Scrum Guidance Body.
+The <ins>***Retrospect Sprint Meeting***</ins> is Time-boxed to one hour each week of the Sprint 
+duration during the Retrospect Sprint process of ***Review and Retrospect*** phase. In this 
+meeting, the Scrum Team gathers to review and reflect on the current Sprint regarding the 
+processes followed, tools used, collaboration and communication methods, and other relevant 
+aspects of the project. The team reviews what went well and what did not in the previous sprint 
+to learn and improve future sprints. Any identified best practices or improvement opportunities 
+may be added to the Scrum Guidance Body.
 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 35 - 36
 
@@ -461,27 +544,50 @@ The <ins>***Retrospect Sprint Meeting***</ins> is Time-boxed to one hour each we
 
 ![Image – Iterative Development](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-principles-iterative-development.png)
 
-To achieve the goal of delivering maximum business value in a minimum time span, Scrum application consists of <ins>***Iterative Development***</ins> of deliverables. In complex projects, the customer may not have concrete requirements for the product result. The Scrum framework uses an iterative model to ensure that change requests can be included in the product. User Stories may be written throughout the project's duration. At the beginning of the project, User Stories are defined as high-level functionalities referred to as Epics. An Epic is usually too large for teams to complete in a single Sprint; therefore, Epics are broken into smaller User Stories.
+To achieve the goal of delivering maximum business value in a minimum time span, Scrum application 
+consists of <ins>***Iterative Development***</ins> of deliverables. In complex projects, the 
+customer may not have concrete requirements for the product result. The Scrum framework uses
+an iterative model to ensure that change requests can be included in the product. User Stories
+may be written throughout the project's duration. At the beginning of the project, User Stories 
+are defined as high-level functionalities referred to as Epics. An Epic is usually too large for 
+teams to complete in a single Sprint; therefore, Epics are broken into smaller User Stories.
 
 <br/>
 
-During the ***Implement*** phase, the complex project is deconstructed during the *Refine Prioritized Product Backlog* process. In the ***Plan and Estimate*** phase, new requirements are added to the Prioritized Product Backlog in the processes of *Create User Stories*, *Estimate User Stories*, and *Commit User Stories*. The Product Owner must understand the project's business justification, ensure an increase in ROI, and deliver value after each Sprint when drafting the Prioritized Product Backlog. The *Identify Tasks*, *Estimate Tasks*, and *Update Sprint Backlog* processes of the ***Plan and Estimate*** phase create the Sprint Backlog, which the team uses to create deliverables.
+During the ***Implement*** phase, the complex project is deconstructed during the *Refine 
+Prioritized Product Backlog* process. In the ***Plan and Estimate*** phase, new requirements 
+are added to the Prioritized Product Backlog in the processes of *Create User Stories*,
+*Estimate User Stories*, and *Commit User Stories*. The Product Owner must understand the 
+project's business justification, ensure an increase in ROI, and deliver value after each 
+Sprint when drafting the Prioritized Product Backlog. The *Identify Tasks*, *Estimate Tasks*,
+and *Update Sprint Backlog* processes of the ***Plan and Estimate*** phase create the Sprint
+Backlog, which the team uses to create deliverables.
 
 <br/>
 
-In each Sprint, the ***Implement*** phase's *Create Deliverables* process is used to develop the Sprint’s outputs. The Scrum Master facilitates the team to work most productively and the Scrum Team self-organizes and aims to create the Sprint Deliverables from the User Stories in the Sprint Backlog for each Sprint. Multiple cross-functional teams collaborate in parallel during Sprints to produce potentially shippable solutions after each Sprint in major projects. Following the completion of the Sprint, the Product Owner decides whether to accept or reject the deliverables by the Acceptance Criteria from the *Demonstrate and Validate Sprint* process in the ***Review and Retrospect*** phase.
+In each Sprint, the ***Implement*** phase's *Create Deliverables* process is used to develop
+the Sprint’s outputs. The Scrum Master facilitates the team to work most productively and the
+Scrum Team self-organizes and aims to create the Sprint Deliverables from the User Stories in
+the Sprint Backlog for each Sprint. Multiple cross-functional teams collaborate in parallel
+during Sprints to produce potentially shippable solutions after each Sprint in major projects.
+Following the completion of the Sprint, the Product Owner decides whether to accept or reject 
+the deliverables by the Acceptance Criteria from the *Demonstrate and Validate Sprint* process
+in the ***Review and Retrospect*** phase.
 
 <br/>
 
-Because everyone engaged gains a better grasp of what needs to be provided as part of the project and iteratively incorporates these learnings, iterative development has the advantage of allowing for course correction. It reduces the time and effort to complete the product and deliverables are more appropriate for business value.
+Because everyone engaged gains a better grasp of what needs to be provided as part of the 
+project and iteratively incorporates these learnings, iterative development has the advantage
+of allowing for course correction. It reduces the time and effort to complete the product and
+deliverables are more appropriate for business value.
 
 <br/>
 
 
 # Conclusion
-I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. 
-In this section,***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
+I highly recommend anyone interested in learning the process of software development or 
+project management to take SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section,***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, 
+I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
 <br/>
  
