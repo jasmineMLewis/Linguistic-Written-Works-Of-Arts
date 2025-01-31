@@ -23,7 +23,8 @@ I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am takin
 Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, 
 its principles, aspects, phases, benefits, and impediments.
 
-
+<br/>
+<br/>
 
 # Table of Contents 
 1. [Study Guide Overview](#study-guide-overview)
@@ -49,7 +50,7 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 
 <br/>
 
-***Note***
+<ins>***Note***</ins>
 
 <br/>
 
@@ -90,6 +91,8 @@ As I study to complete the SCRUMstudy's [Scrum Fundamentals Certification (SFC)]
 The [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an 
 introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
 
+<br/>
+ 
 ## Examination Format
 The exam format consists of the following:
 - Multiple choice
@@ -100,6 +103,8 @@ The exam format consists of the following:
 - 60 minutes duration
 - Online non-proctored exam
 - Can be attempted multiple times for free
+
+<br/>
 
 ## Examination Topics
 The exam format consists of the following:
@@ -122,9 +127,13 @@ Agile methodologies are focused on the four factors:
 3. Continuous Improvement
 4. Active Stakeholder Engagement
 
+<br/>
+ 
 ## What is Scrum?
 Scrum is one of the most popular Agile methodologies. It delivers value throughout a project expeditiously due to its adaptative, iterative, fast, flexible, and effective framework.
 
+<br/>
+ 
 ## Scum Impediments
 A Scrum project involves a collaborative effort to create a new product, service, or other result as defined in the Project Vision Statement. Projects are impacted by impediments that makes it difficult for teams to plan, implement, manage, and deliver. Project impediments include the following:
 1.	Time 
@@ -150,7 +159,9 @@ Scrum consist of three primary components: principles, aspects, and phases. SCRU
 - Phases (Chapters 8-– 12)
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 7 
- 
+
+<br/>
+
 ## Principles 
 Scrum consists of six principles:
 - Empirical Process Control
@@ -162,6 +173,8 @@ Scrum consists of six principles:
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 9
 
+<br/>
+
 ## Aspects
 Scrum consists of five aspects:
 - Organization
@@ -171,6 +184,9 @@ Scrum consists of five aspects:
 - Risk
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 11 - 14
+
+
+<br/>
  
 ## Phases
 Scrum consists of five phases: 
@@ -182,8 +198,8 @@ Scrum consists of five phases:
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 15
 
-<br/> 
-
+<br/>
+<br/>
 
 # Scrum Principles
 
@@ -194,21 +210,29 @@ Scrum consists of five phases:
 An Empirical Process Control model helps make decisions based on observation and experimentation rather than on detailed upfront planning. It relies on the three main ideas of transparency, inspection, and Adaptation. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | Page: 363
- 
+
+<br/>
+
 ## Self-Organization 
 Scrum believes that employees are self-motivated and seek to accept greater responsibility. Hence, they deliver much greater value when self-organized. 
  
- ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | Page: 384
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | Page: 384
+
+<br/>
  
 ## Collaboration 
 Collaboration in Scrum refers to the Scrum Core Team working together and interfacing with the stakeholders to create and validate the deliverables of the project to meet the goals outlined in the Project Vision. Collaboration occurs when a team works together to play off each other’s contributions to produce something greater. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | Page: 358
+
+<br/>
  
 ## Value-based Prioritization 
 Scrum, however, uses Value-based Prioritization as one of the core principles that drives the structure and functionality of the entire Scrum framework—it helps projects benefit through adaptability and iterative development of the product or service. More significantly, Scrum aims at delivering a valuable product or service to the customer on an early and continuous basis. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Principles | Page: 33
+
+<br/>
  
 ## Time-boxing 
 Time-boxing refers to setting short periods of time for work to be done. If the work undertaken remains 
@@ -216,6 +240,8 @@ incomplete at the end of the Time-box, it is moved into a subsequent Time-box. T
 structure needed for Scrum projects, which have an element of uncertainty, are dynamic in nature, and are prone to frequent changes.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary | Page: 389
+
+<br/>
  
 ## Iterative Development
 Iterative Development emphasizes how to better manage changes and build products that satisfy customer needs. 
@@ -223,7 +249,7 @@ Iterative Development emphasizes how to better manage changes and build products
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 10
 
 <br/>
-
+<br/>
 
 # Scrum Aspects
 
@@ -233,21 +259,29 @@ Iterative Development emphasizes how to better manage changes and build products
 Organization with Scrum roles fall into two broad categories: core and non-core roles.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 11, 12
- 
+
+<br/>
+
 ## Business Justification
 Business Justification demonstrates the reasons for undertaking a project. It answers the question “Why is this project needed?” Business justification drives all decision making related to a project.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary | Page: 357
+
+<br/>
  
 ## Quality
 Quality is defined as the ability of the completed product or Deliverables to meet the Acceptance Criteria and achieve the business value expected by the customer.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary| Page: 375
+
+<br/>
  
 ## Change
 Change is inevitable in all projects. A primary principle of Scrum is its acknowledgement that a) stakeholders (e.g., customers, users, and sponsors) do change their minds about what they want and need throughout a project (sometimes referred to as ‘requirements churn’) and b) that it is very difficult, if not impossible, for stakeholders to define all requirements during project initiation.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Change | Page: 102
+
+<br/>
  
 ## Risk
 Risk is defined as an uncertain event or set of events that can affect the objectives of a project and may
@@ -256,7 +290,7 @@ contribute to its success or failure.
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary | Page: 380
 
 <br/>
-
+<br/>
 
 # Scrum Phases
 
@@ -267,22 +301,30 @@ This phase is composed of the processes related to initiation of a project: Crea
 Scrum Master and Stakeholder(s), Form Scrum Team, Develop Epic(s), Create Prioritized Product Backlog, and Conduct Release Planning. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary| Page: 367
- 
+
+<br/>
+
 ## Plan and Estimate
 The Plan and Estimate phase consist of processes related to planning and estimating tasks, which include Create User Stories, Estimate User Stories, Commit User Stories, Identify Tasks, Estimate Tasks, and Create Sprint Backlog. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Glossary| Page: 372
+
+<br/>
  
 ## Implement 
 The Implement Phase includes processes related to the execution of the tasks and activities to create a 
 project’s product. 
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: 366 | Page: Glossary
+
+<br/>
  
 ## Review and Retrospect
 The Review and Retrospect phase is concerned with reviewing the deliverables and the work that has been done and determining ways to improve the practices and methods used to do project work. In large organizations.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Review and Retrospect | Page: 241
+
+<br/>
  
 ## Release
 The Release phase emphasizes delivering the Accepted Deliverables to the customer and identifying, 
@@ -290,6 +332,7 @@ documenting, and internalizing the lessons learned during the project.
  
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Release | Page: 257
 
+<br/>
 <br/>
 
 
@@ -319,48 +362,78 @@ Scrum consist of 16 benefits. The benefits are the following:
 
 ### Adaptability
 Empirical Process Control and Iterative Delivery make projects adaptable and open to incorporating change. 
- 
+
+<br/>
+
 ### Transparency
 All information radiators such as Scrum Board and Sprint Burndown Chart are shared, leading to an open work environment. 
+
+<br/>
  
 ### Continuous Feedback
 Continuous Feedback is provided through the Daily Standup and demonstrate and validate Sprint processes. 
+
+<br/>
  
 ### Continuous Improvement
 The deliverables are improved progressively Sprint by Sprint through the Groom Prioritized Product Backlog process. 
+
+<br/>
  
 ### Continuous Delivery of Value
 Iterative processes enable the continuous delivery of value through the Ship Deliverables process as frequently as the customer requires. 
+
+<br/>
  
 ### Sustainable Pace
 Scrum processes are designed such that the people involved can work at a sustainable pace that they can, in theory, continue indefinitely.  
+
+<br/>
  
 ### Early Delivery of High Value
 The Create Prioritized Product Backlog process ensures that the highest value requirements of the customer are satisfied first. 
+
+<br/>
  
 ### Efficient Development Process
 Time-boxing and minimizing non-essential work leads to higher efficiency levels. 
+
+<br/>
  
 ### Motivation
 The Daily Standup and Retrospect Sprint processes lead to greater levels of motivation among employees. 
+
+<br/>
  
 ### Faster Problem Resolution
 Collaboration and colocation of cross-functional teams lead to faster problem solving. 
+
+<br/>
  
 ### Effective Deliverables
 The create Prioritized Product Backlog process and regular reviews after creating deliverables ensures effective deliverables to the customer. 
+
+<br/>
  
 ### Customer Centric
 Emphasis on business value and having collaborative approach to stakeholders ensures a customer-oriented framework. 
+
+<br/>
  
 ### High Trust Environment 
 Conduct Daily Standup and Retrospect Sprint processes promote transparency and collaboration, leading to a high trust work environment ensuring low friction among employees. 
+
+<br/>
  
 ### Collective Ownership 
 The Commit User Stories process allows team members to take ownership of the project and their work leading to better quality. 
+
+<br/>
  
 ### High Velocity 
 A collaborative framework enables highly skilled cross-functional teams to achieve their full potential and high velocity. 
+
+<br/>
  
 ### Innovative Environment 
 The Retrospect Sprint and Retrospect Project processes create an environment of introspection, learning, and adaptability leading to an innovative and creative work environment. 
@@ -368,7 +441,7 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | Page: 4
 
 <br/>
-
+<br/>
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
@@ -376,10 +449,12 @@ SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com
 In this section, ***Scrum Fundamentals Certification (SFC) | Study Guide - Part I:  Introduction***, I provided 
 a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
+<br/> 
 <br/>
- 
+
 <ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects,
 not only software applications.*
+
 
 
 <br/>

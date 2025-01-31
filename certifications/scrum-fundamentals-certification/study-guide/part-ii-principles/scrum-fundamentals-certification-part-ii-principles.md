@@ -8,7 +8,7 @@ Jasmine Monique Lewis
 December 31, 2024
 
 ### Last Modified
-January 28, 2025
+January 30, 2025
 
 ![Image – 6 Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-title-principles.png)
 
@@ -589,6 +589,7 @@ I highly recommend anyone interested in learning the process of software develop
 project management to take SCRUMstudy's [Scrum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) exam. In this section,***Scrum Fundamentals Certification (SFC) | Study Guide - Part II: Principles***, 
 I will outline the six principles of the Scrum framework necessary to pass SCRUMstudy's Scrum Fundamentals Certification.
 
+<br/>
 <br/>
  
 <ins>***Until next time:***</ins> *it's not the project, it's the six principles.*
