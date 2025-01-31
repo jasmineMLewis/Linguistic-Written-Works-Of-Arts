@@ -8,7 +8,7 @@ Jasmine Monique Lewis
 December 31, 2024
 
 ### Last Modified
-January 28, 2025
+January 30, 2025
 
 ![Image – 6 Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-title-principles.png)
 
