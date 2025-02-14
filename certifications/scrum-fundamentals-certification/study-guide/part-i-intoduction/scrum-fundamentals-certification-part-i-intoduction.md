@@ -456,8 +456,6 @@ a synopsis of the examination, an overview of scrum, its benefits, and impedimen
 not only software applications.*
 
 
----
-
 <br/>
 
 R3b3l with me at [GitHub](https://github.com/jasmineMLewis), [Medium](https://medium.com/@JasmineMLewis), [Dev Community](https://dev.to/jasminemlewis/), and [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/) 

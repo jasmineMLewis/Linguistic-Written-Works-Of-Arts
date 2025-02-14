@@ -13,7 +13,6 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 2. [M.A.C.S [book]: Chapter 2 - A Tale of Two 'Mentors' :: Brush It Off](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/chapter-2/macs-book-chapter-2-brush-it-off.md)
 
 
----
 
 
 # Scrum Framework
@@ -25,8 +24,6 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 
 1. [Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/scrum-framework-the-definition-of-done.md)
 
-
----
 
 
 # Scrum Fundamentals Certification
@@ -43,9 +40,6 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 
 
 
-----
-
-
 # Poetry Workshop
 
 ## Articles | 1
@@ -53,3 +47,13 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 ![Image - New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/title-table-of-activities/surprise-or-how-to-get-started-feature-image.png)
 
 1. [New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/new-orleans-writers-workshop-recap-surprise-or-how-to-get-started.md)
+
+
+
+# Tech Events
+
+## Articles | 1
+
+![Image - Tech Event Recap | Black Tech NOLA: Creator Summit (11/4/2024)](https://github.com/jasmineMLewis/Articles/blob/Production/nolavate-black/black-tech-nola-creator-summit/assets/black-tech-tech-creator-summit-title.png)
+
+1. [Tech Event Recap | Black Tech NOLA: Creator Summit (11/4/2024)](https://github.com/jasmineMLewis/Articles/blob/Production/nolavate-black/black-tech-nola-creator-summit/black-tech-nola-creator-summit.md)

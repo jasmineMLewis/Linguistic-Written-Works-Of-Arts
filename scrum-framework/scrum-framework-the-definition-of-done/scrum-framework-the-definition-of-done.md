@@ -190,8 +190,6 @@ I recommend anyone interested in learning software development or project manage
 **Until next time:**  *clarifying your team’s definition of done will assist in completing user stories and achieving sprint goals.*
 
 
----
-
 <br/>
 
 *Signed*<br/>

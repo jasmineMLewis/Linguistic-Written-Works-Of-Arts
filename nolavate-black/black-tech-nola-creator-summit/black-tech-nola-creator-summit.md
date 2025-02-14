@@ -51,7 +51,6 @@ Sabrina N. Short, founder and CEO of NOLAvate Black, is a community organizer an
  
 <br/>
 
----
 
 # Vendors and Panels
 ## Vendors
@@ -84,7 +83,6 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 <br/>
 
----
 
 # Panel - Women in AI: Paving the Way for the Future of Work
 
@@ -173,7 +171,6 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 <br/>
 
----
 
 # Panel - Making Waves: Entrepreneurs in Music
 
@@ -253,7 +250,6 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 <br/>
 
----
 
 # Panel - Tech vs Human: Music Business and AI
 
@@ -311,7 +307,6 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 <br/>
 
----
 
 # Panel - Shoot You Shot: Advancing in Film and Media
 
@@ -363,12 +358,10 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 <br/> 
 
----
 
 # Conclusion
 In conclusion, the panelists were knowledgeable and prolific in their domains. Artificial Intelligence is prevalent in our daily lives. As technology advances, we cannot escape AI. Therefore, we must learn to embrace and employ AI to address our problems, while maintaining the importance of human interaction. I enjoyed the event and look forward to attending other NOLAvate Black's tech summits. Furthermore, I recommend tech enthusiasts and entrepreneurs to attend NOLAvate Black's events.
 
----
 
 <br/>
 
