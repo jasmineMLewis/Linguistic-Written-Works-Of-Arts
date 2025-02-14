@@ -312,9 +312,6 @@ In conclusion, I greatly enjoyed Brad Richard's workshop, Surprise!, Or How To G
 The LightBringer<br/> 
 I am the eagle that flies ABOVE. <br/> 
 <br/>
-
- 
-<!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
  
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
 

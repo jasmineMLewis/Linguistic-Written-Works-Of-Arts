@@ -595,8 +595,6 @@ I will outline the six principles of the Scrum framework necessary to pass SCRUM
 <ins>***Until next time:***</ins> *it's not the project, it's the six principles.*
 
 
----
-
 <br/>
 
 R3b3l with me at [GitHub](https://github.com/jasmineMLewis), [Medium](https://medium.com/@JasmineMLewis), [Dev Community](https://dev.to/jasminemlewis/),
