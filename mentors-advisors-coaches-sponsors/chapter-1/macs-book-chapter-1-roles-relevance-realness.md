@@ -1,5 +1,6 @@
 # M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors | Chapter 1 – Roles, Relevance, and Realness
 
+# Article Details
 ### Author
 Jasmine Monique Lewis 
 
