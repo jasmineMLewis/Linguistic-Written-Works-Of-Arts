@@ -104,6 +104,8 @@ I hope you all learn the role, relevance, and qualities of a **M** entor, **A** 
 <ins>***One more thing:***</ins>  *you cannot achieve any success by living on an island, so get your M.A.C.S [book]!* 
 
 
+---
+
 *Signed*<br/> 
 The LightBringer<br/> 
 I am the eagle that flies ABOVE. <br/> 
@@ -114,6 +116,9 @@ I am the eagle that flies ABOVE. <br/>
 
 
 ![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
+
+
+---
 
 # References 
  
