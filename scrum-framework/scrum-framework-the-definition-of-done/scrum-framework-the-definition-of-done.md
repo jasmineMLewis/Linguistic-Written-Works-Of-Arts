@@ -1,5 +1,7 @@
 # Scrum Framework: The Definition of Done
 
+
+# Article Details
 ### Author
 Jasmine Monique Lewis 
 

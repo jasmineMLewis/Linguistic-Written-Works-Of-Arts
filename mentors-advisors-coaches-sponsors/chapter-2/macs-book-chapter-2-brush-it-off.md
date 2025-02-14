@@ -1,5 +1,6 @@
 # The M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors | Chapter 2 - A Tale of Two ‘Mentors’ :: Brush It Off
 
+# Article Details
 ### Author
 Jasmine Monique Lewis 
 

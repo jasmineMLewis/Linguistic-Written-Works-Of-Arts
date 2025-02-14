@@ -1,5 +1,6 @@
 # New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)
 
+# Article Details
 ### Author
 Jasmine Monique Lewis
 
