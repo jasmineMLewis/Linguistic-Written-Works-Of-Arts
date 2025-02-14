@@ -87,13 +87,14 @@ I hope you all learned not to give up and take initiative on your dreams, regard
   
 <ins>***One more thing:***</ins>  *with all human relationships, there are two personalities and two characters, yours and theirs; so get your M.A.C.S [book]!* 
  
+
+---
  
 *Signed*<br/> 
 The LightBringer<br/> 
 I am the eagle that flies ABOVE. <br/> 
 <br/> 
  
-<!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
  
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
  

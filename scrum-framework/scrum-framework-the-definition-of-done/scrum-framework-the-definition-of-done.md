@@ -14,7 +14,6 @@ Jasmine Monique Lewis
 ![Image - Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
 
 
-
 # Excerpt
 
 Scrum Framework: The Definition of Done provides an explanation of how to determine a scrum team's definition of done for user stories and bugs. Having a team agreed upon definition of done it permits a Scum team to know when items are releasable. Within a course titled Scrum Framework: Definition of Done, this linguistic-written-works-of-artz {L.WWoA} provides the five levels of planning, the evolution of product scope, the definition of done in product development, variations of defining done, creating a definition of done, the definition of done and the Sprint goal, and lastly, the definition of done and empiricism.
@@ -189,6 +188,9 @@ I recommend anyone interested in learning software development or project manage
 <br/>
 
 **Until next time:**  *clarifying your team’s definition of done will assist in completing user stories and achieving sprint goals.*
+
+
+---
 
 <br/>
 
