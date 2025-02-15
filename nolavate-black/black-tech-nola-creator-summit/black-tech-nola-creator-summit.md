@@ -18,7 +18,6 @@ February 14, 2025
 On Monday, 4th of November 2024, NOLAvate Black hosted its 7th Black Tech NOLA: Creator Summit in conjunction with New Orleans Tourism & Cultural Fund. NOLAvate Black is the largest Black Tech conference in the New Orleans region.  I had the pleasure to attend my first Black Tech NOLA: Creator Summit at Loyola University New Orleans from 8am - 4pm.
 The event featured four panels and a keynote presentation. Except for the keynote, I attended each panel. I have provided details of the notes and takeaways I gathered from the panel speakers.
 
-<hr />
 <br/>
 <br/>
  
